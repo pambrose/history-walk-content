@@ -10,7 +10,7 @@ val slides =
         """
             <h1>Welcome to this lesson</h1>
             ## I am a header 
-            ### I am a smaller header 
+            ### I am an even smaller header 
             
             Here are some bullet points:
             * Item 1 with *italics*
