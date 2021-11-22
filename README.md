@@ -1,5 +1,2 @@
-# History Walk Slides
+# History Walk Content
 
-This repo contains the classes required to author History Walk slides.
-
-The classes are also used by the History Walk server. 
