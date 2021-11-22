@@ -50,7 +50,10 @@ val slides =
     }
 
     slide("Fall Choice") {
-      content = "Fall Slide"
+        content = """
+![Slave image](https://www.beaconbroadside.com/.a/6a00e54ed2b7aa88330240a47c19ef200c-popup)
+      """
+
     }
 
     slide("Winter Choice") {
