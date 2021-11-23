@@ -20,6 +20,12 @@ val slides =
         """
       )
 
+      addImage(
+        "https://www.nps.gov/articles/000/images/Runaway-Slave-Advertisement-1_Columbus-Democrat-Columbus-MS-_18-August-1838_2.jpg",
+        300,
+        300
+      )
+
       verticalChoices()
 
       addChoice("Spring", "Spring Choice")
@@ -35,12 +41,6 @@ val slides =
         
         Here are the choices of clothing:
       """
-      )
-
-      addImage(
-        "https://www.nps.gov/articles/000/images/Runaway-Slave-Advertisement-1_Columbus-Democrat-Columbus-MS-_18-August-1838_2.jpg",
-        300,
-        300
       )
 
       horizontalChoices()
