@@ -311,7 +311,11 @@ val text29_firstTown = """
 """
 
 val text30_majorEncounterBaronialMansion = """
-      A regally dressed servant opens the door and asks your business. Do you...
+      <img src="https://readingbat-static.sfo2.cdn.digitaloceanspaces.com/history-walk/mansion.jpg" alt="Pic" style="width:596px;height:249px;border:3px solid black;display: block;margin-left: auto;margin-right: auto;margin-bottom: 30px;"/>  
+
+      A regally dressed servant opens the door and asks your business. 
+      
+      Do you...
 """
 
 val text31_politeAndSubmissiveBluff = """
