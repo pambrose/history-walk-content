@@ -1,9 +1,9 @@
 import com.github.pambrose.slides.SlideDeck.Companion.slideDeck
 
 val text1_titlePage = """ 
-    <p style="margin-bottom:75px;">  
+    <p style="margin-bottom:57px;border:3px solid white;">  
     <font size="+3">
-    <img src="https://readingbat-static.sfo2.cdn.digitaloceanspaces.com/history-walk/jermain-longuen.jpg" alt="Pic" style="width:334px;height:518px;border:3px solid black;float:right;margin-left:3  5px;"/>  
+    <img src="https://readingbat-static.sfo2.cdn.digitaloceanspaces.com/history-walk/jermain-longuen.jpg" alt="Pic" style="width:334px;height:518px;border:3px solid black;float:right;margin-left:10px;"/>  
     <p style="padding-top:100px;">
     UGRR Scenario: 
     <br>
@@ -16,7 +16,7 @@ val text1_titlePage = """
     *Sven Miller*
     </font>
     </p>
-    </p>
+    </p> 
 """
 
 val text2_majorDecision = """      
@@ -33,6 +33,10 @@ val text2_majorDecision = """
 """
 
 val text3_companionDecision = """
+    <p style="padding-bottom:60px;">
+    <img src="https://readingbat-static.sfo2.cdn.digitaloceanspaces.com/history-walk/pistol.jpg" alt="Pic" style="width:130px;height:61px;border:1px solid white;float:left"/>  
+    <img src="https://readingbat-static.sfo2.cdn.digitaloceanspaces.com/history-walk/salami.jpg" alt="Pic" style="width:123px;height:76px;border:1px solid white;float:right"/>  
+
     Eager to join you, your friend John Farney asks around and says that 
     you should contact **first** (1) an ‘entrepreneurial’ (and maybe sympathetic?) 
     white man named Ross –– who offers to ‘obtain’ and provide forged free 
@@ -42,7 +46,8 @@ val text3_companionDecision = """
     very wise.
     
     Will you risk beating, torture, or worse by stealing the items that Ross 
-    wants in exchange for what he offers?
+    wants in exchange for what he offers?    
+    </p>
 """
 
 val text4_decisionWhenToGo = """
