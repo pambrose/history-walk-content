@@ -1,10 +1,22 @@
 import com.github.pambrose.slides.SlideDeck.Companion.slideDeck
 
-val text1_titlePage = """     
+val text1_titlePage = """ 
+    <p style="margin-bottom:75px;">  
+    <font size="+3">
+    <img src="https://readingbat-static.sfo2.cdn.digitaloceanspaces.com/history-walk/jermain-longuen.jpg" alt="Pic" style="width:334px;height:518px;border:3px solid black;float:right;margin-left:3  5px;"/>  
+    <p style="padding-top:100px;">
+    UGRR Scenario: 
+    <br>
     Jarm Logue, later known as Reverend Jermain W. Longuen
-    
+    </p>
+    </font>
+    <p style="text-align: center;padding-top:50px;">
+    <font size="+2">
     *Ted Webb* <br>
     *Sven Miller*
+    </font>
+    </p>
+    </p>
 """
 
 val text2_majorDecision = """      
@@ -517,8 +529,6 @@ val text58_woodmensAdvice = """
       
       YOU HAVE MADE IT!
 """
-
-// <img src="https://www.nps.gov/articles/000/images/Runaway-Slave-Advertisement-1_Columbus-Democrat-Columbus-MS-_18-August-1838_2.jpg" alt="Pic" width="300" height="400" style="border:5px solid black"/>
 
 val slides =
   slideDeck {
