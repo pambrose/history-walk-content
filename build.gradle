@@ -10,7 +10,6 @@ group 'com.github.pambrose'
 version '1.1.0'
 
 repositories {
-    mavenLocal()
     google()
     mavenCentral()
     maven { url = 'https://jitpack.io' }
@@ -18,7 +17,7 @@ repositories {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    implementation("com.github.pambrose:history-walk-slides:$slides_version")
+    implementation "com.github.pambrose:history-walk-slides:$slides_version"
 
     implementation "io.github.microutils:kotlin-logging:$logging_version"
     implementation "ch.qos.logback:logback-classic:$logback_version"
